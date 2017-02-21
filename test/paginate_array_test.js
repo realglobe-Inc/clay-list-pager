@@ -34,7 +34,9 @@ describe('paginate-array', function () {
       paginateArray([ { id: 1 }, { id: 2 }, { id: 3 } ], { number: 2, size: 2 }),
       [ { id: 3 } ]
     )
+
   }))
+
 })
 
 /* global describe, before, after, it */
