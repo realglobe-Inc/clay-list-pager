@@ -23,7 +23,6 @@
   },
   "homepage": "https://github.com/realglobe-Inc/clay-list-pager#readme",
   "dependencies": {
-    "co": "^4.6.0"
   },
   "devDependencies": {
     "ababel": "^2.0.1",
@@ -35,6 +34,7 @@
     "ape-tasking": "^4.0.9",
     "ape-tmpl": "^5.0.20",
     "ape-updating": "^4.1.0",
+    "co": "^4.6.0",
     "coz": "^6.0.20",
     "injectmock": "^2.0.0",
     "sugos-travis": "^2.0.7"
