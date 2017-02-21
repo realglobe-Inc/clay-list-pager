@@ -1,6 +1,6 @@
 {
   "name": "clay-list-pager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "List pager for ClayDB",
   "browser": "shim/browser",
   "main": "lib",
@@ -22,8 +22,7 @@
     "url": "https://github.com/realglobe-Inc/clay-list-pager/issues"
   },
   "homepage": "https://github.com/realglobe-Inc/clay-list-pager#readme",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "ababel": "^2.0.1",
     "ababel-es2015": "^2.0.1",
