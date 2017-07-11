@@ -99,6 +99,7 @@ Available functions
 
 | Signature | Description |
 | ---- | ----------- |
+| `metaToPage() -> Object` | Convert clay collection meta object into page |
 | `pageToOffsetLimit(page, page.number, page.size) -> Object` | Convert page into offset/limit |
 | `paginateArray(array, page, page.number, page.size) -> Object[]` | Paginate array with paging condition |
 
