@@ -1,6 +1,6 @@
 {
   "name": "clay-list-pager",
-  "version": "2.0.2",
+  "version": "2.1.0",
   "description": "List pager for ClayDB",
   "browser": "shim/browser",
   "main": "lib",
@@ -22,16 +22,18 @@
     "url": "https://github.com/realglobe-Inc/clay-list-pager/issues"
   },
   "homepage": "https://github.com/realglobe-Inc/clay-list-pager#readme",
-  "dependencies": {},
+  "dependencies": {
+    "asenv": "^2.0.0"
+  },
   "devDependencies": {
-    "ababel": "^2.0.1",
+    "ababel": "^2.0.3",
     "ababel-es2015": "^2.0.1",
-    "amocha": "^2.0.0",
+    "amocha": "^4.0.0",
     "ape-doc": "^2.0.4",
     "ape-formatting": "^1.0.2",
     "ape-releasing": "^4.0.4",
     "ape-tasking": "^4.0.9",
-    "ape-tmpl": "^5.0.20",
+    "ape-tmpl": "^6.0.2",
     "ape-updating": "^4.1.0",
     "co": "^4.6.0",
     "coz": "^6.0.20",
@@ -39,7 +41,7 @@
     "sugos-travis": "^2.0.7"
   },
   "engines": {
-    "node": ">=6",
+    "node": ">=8",
     "npm": ">=4"
   }
 }
